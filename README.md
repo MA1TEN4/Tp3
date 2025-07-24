@@ -1,4 +1,4 @@
-#mi portofolio - tp01 (laboratorio de programacion)
+#mi portofolio - tp03 (laboratorio de programacion)
 
 <h4>Este proyecto consiste en la creacion de una pagina sobre un kiosco/libreria usando HTML5 y CSS, publicada a traves de GitHub pages. El objetivo es dar los primeros pasos con el uso de GitHub y el desarrolo web.</h4>
 <h4>Tecnologias usadas </h4>
